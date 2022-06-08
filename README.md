@@ -32,7 +32,6 @@ Si vous nous envoyez un lien vers une version en ligne de votre page, c'est enco
 ## Réalisation attendues
 Le contenu est déjà présent dans le fichier index.html.   
 Pour l’instant, il est donc interdit d’y toucher.   
-Attention, l'image que vous aurez ne sera pas la même que celle du modèle vu qu'on va partir sur une image aléatoire. 
 
 Le fichier styles.css doit être créé afin d’y intégrer tous les éléments de style nécessaires pour reproduire le rendu présenté dans exemple.png.
 
