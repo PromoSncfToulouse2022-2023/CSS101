@@ -13,8 +13,7 @@ Il y a fort fort longtemps, les pages web étaient statiques (et moches). Comme 
 Premier contact avec le code et les outils utilisés.
 
 ## Compétence.s concernée.s
-    • 1.1 : Maquetter une application
-    • 1.2 : Réaliser une interface utilisateur web statique et adaptable
+    • C2 : Réaliser une interface utilisateur web statique et adaptable
 
 ## Critères de réussite
     • Le projet comprend un fichier .html ainsi qu’un fichier .css.
